@@ -1,0 +1,10 @@
+C:\Users\JMRC\source\repos\TempConversion\bin\Debug\TempConversion.exe.config
+C:\Users\JMRC\source\repos\TempConversion\bin\Debug\TempConversion.exe
+C:\Users\JMRC\source\repos\TempConversion\bin\Debug\TempConversion.pdb
+C:\Users\JMRC\source\repos\TempConversion\obj\Debug\TempConversion.csproj.SuggestedBindingRedirects.cache
+C:\Users\JMRC\source\repos\TempConversion\obj\Debug\TempConversion.Form1.resources
+C:\Users\JMRC\source\repos\TempConversion\obj\Debug\TempConversion.Properties.Resources.resources
+C:\Users\JMRC\source\repos\TempConversion\obj\Debug\TempConversion.csproj.GenerateResource.cache
+C:\Users\JMRC\source\repos\TempConversion\obj\Debug\TempConversion.csproj.CoreCompileInputs.cache
+C:\Users\JMRC\source\repos\TempConversion\obj\Debug\TempConversion.exe
+C:\Users\JMRC\source\repos\TempConversion\obj\Debug\TempConversion.pdb
